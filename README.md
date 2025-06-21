@@ -55,6 +55,22 @@ cd VODAFONE_CASE
 docker-compose up --build
 ```
 
+veya Windows için:
+
+```bash
+run_fastapi_project.bat
+```
+
+veya Linux için
+
+```bash
+run_fastapi_project.sh
+```
+
+dosyalarını terminalden çalıştırabilirsiniz. 
+Bu dosyalar hali hazırda Docker kurulu mu ve çalışıyor mu diye kontrol eder. 
+
+
 ### 3. API dokümantasyonuna erişim
 
 Tarayıcınızdan aşağıdaki adrese gidin:

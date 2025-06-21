@@ -1,0 +1,12 @@
+### POST: Kullanıcı ekle
+POST http://localhost:8000/insert
+Content-Type: application/json
+
+{
+  "id": 101,
+  "name": "Hilal",
+  "surname": "İngeç"
+}
+
+### GET: Kullanıcıyı getir (Redis ya da MySQL)
+GET http://localhost:8000/user/101

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+redis
+pytest
+cryptography
+httpx
+faker

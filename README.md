@@ -45,7 +45,7 @@ Bu projeyi çalıştırmak için sisteminizde aşağıdaki yazılımların kurul
 ### 1. Projeyi klonlayın veya zip olarak indirin
 
 ```bash
-git clone https://github.com/kullanici_adi/VODAFONE_CASE.git
+git clone https://github.com/hilalingec/VODAFONE_CASE.git
 cd VODAFONE_CASE
 ```
 
